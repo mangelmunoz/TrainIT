@@ -8,7 +8,7 @@ TrainIT is a Android application that can tell if a user is doing a specific gym
 On home screen user can select a exercise, and the application show information about it.
 
 <p align="center">
-  <img src="images/Screens/PressMilitar1.jpg" width="300"> <img src="images/Screens/PressMilitar2.jpg" width="300">
+  <img src="images/Screens/PressMilitar1.jpg" width="200"> <img src="images/Screens/PressMilitar2.jpg" width="200">
 </p> 
 On profile screen you can check stadistic information about training sessions.
 
@@ -16,7 +16,7 @@ On profile screen you can check stadistic information about training sessions.
   <img src="images/Screens/StadisticScreen.jpg" width="200"> <img src="images/Screens/PressStadistics.jpg" width="200">
 </p> 
 
-<video src="https://user-images.githubusercontent.com/43370438/183715982-eb5b3989-be73-4feb-a80b-b2150686de7c.mp4"  width="330" height="250">
+<video src="https://user-images.githubusercontent.com/43370438/183715982-eb5b3989-be73-4feb-a80b-b2150686de7c.mp4"  width="100" height="100">
 </video> 
 
 

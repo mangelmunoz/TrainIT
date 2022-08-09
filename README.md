@@ -4,10 +4,17 @@ TrainIT is a Android application that can tell if a user is doing a specific gym
 <p align="center">
   <img src="images/Screens/HomeScreen.jpg" width="200"> <img src="images/Screens/ProfileScreen.jpg" width="200">
 </p> 
+<p align="center">
+  <img src="images/Screens/PressMilitar1.jpg" width="200"> <img src="images/Screens/PressMilitar2.jpg" width="200">
+</p> 
+<p align="center">
+  <img src="images/Screens/HomeScreen.jpg" width="200"> <img src="images/Screens/PressStadistics.jpg" width="200">
+</p> 
 This app was implemented using Flutter for a Computer Engineering Final Degree Project at the University of Cordova.
 
-
+<p align="center">
 https://user-images.githubusercontent.com/43370438/183715982-eb5b3989-be73-4feb-a80b-b2150686de7c.mp4
+</p>
 
 https://user-images.githubusercontent.com/43370438/183716951-2e33d38b-5c4c-4bca-b39d-45b7a65bebbd.mp4
 

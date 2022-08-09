@@ -10,7 +10,10 @@ On home screen user can select a exercise, and the application show information 
 <p align="center">
   <img src="images/Screens/PressMilitar1.jpg" width="200"> <img src="images/Screens/PressMilitar2.jpg" width="200">
 </p> 
+
 On profile screen you can check stadistic information about training sessions.
+
+
 
 <p align="center">
   <img src="images/Screens/StadisticScreen.jpg" width="200"> <img src="images/Screens/PressStadistics.jpg" width="200">

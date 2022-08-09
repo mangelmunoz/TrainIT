@@ -1,0 +1,53 @@
+{
+  "squats": {
+    "body_position": {
+      "shoulder-ankle": [370, 410]
+    },
+    "initial_state": {
+      "shoulder-knee": [240, 300],
+      "hip-knee": [60, 140],
+      "hip-ankle": [180, 260],
+      "knee-ankle": [80, 130]
+    },
+    "hip_down": {
+      "shoulder-knee": [120, 200],
+      "hip-knee": [20, 130],
+      "hip-ankle": [120, 210],
+      "knee-ankle": [80, 150]
+    }
+  },
+  "arm_press": {
+    "body_position": { 
+      "shoulder-ankle": [380, 420] 
+    },
+    "initial_state": {
+      "wrist-elbow": [40, 110],
+      "wrist-shoulder": [40, 120],
+      "elbow-shoulder": [50, 130],
+      "wrist-nose": [70, 150]
+    },
+    "arms_up": {
+      "wrist-elbow": [60, 180],
+      "wrist-shoulder": [130, 220],
+      "elbow-shoulder": [40, 120],
+      "wrist-nose": [100, 200]
+    }
+  },
+  "curl_biceps": {
+    "body_position": {
+      "shoulder-ankle": [380, 420]
+    },
+    "initial_state": {
+      "hip-wrist": [5, 80],
+      "shoulder-wrist": [130, 190],
+      "shoulder-elbow": [70, 85],
+      "hip-elbow": [70, 105]  
+    },
+    "flexed_arm":{
+      "hip-wrist": [105, 150],
+      "shoulder-wrist": [5, 80],
+      "shoulder-elbow": [70, 95],
+      "hip-elbow": [70, 105]  
+    }
+  }
+}

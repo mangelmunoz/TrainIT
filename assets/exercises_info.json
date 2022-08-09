@@ -1,0 +1,71 @@
+{
+    "squats": {
+        "localStorage": "squats",
+        "name" : "Sentadillas",
+        "img" : "images/squat.PNG",
+        "info_img" : "images/sentadillas.jpg",
+        "group" : "Piernas",
+        "dificulty": "Fácil                  ",
+        "muscles" : [
+            " ● Principales: Cuádriceps y glúteo mayor.",
+            " ● Secundarios: Gemelos, abdomen, lumbares y abdominales."
+        ],
+        "explication" : [
+            "ANTES DE COMENZAR: Coloca el dispositivo en alguna zona en la que sea posible detectar todo tu cuerpo. Una vez colocado el dispositivo, colócate delante de él hasta que detecte que estás en la posición correcta.",
+            "Paso 1: Coloca las piernas abiertas a la anchura de los hombros y estira los brazos.",
+            "Paso 2: Con la espalda recta en todo momento, flexiona las rodillas (procurando no inclinar el torso hacia delante) y baja hasta que formes un ángulo de unos 90º. Asegúrate de que los glúteos van hacia atrás y que contraes el abdomen durante todo el movimiento.",
+            "Paso 3: Vuelve a la posición inicial para terminar la repetición."
+
+        ],
+        "images" : [
+            "images/SquatInitialPosition.jpg",
+            "images/SquatIntermediatePosition.jpg"
+        ]
+    },
+    "arm_press": {
+        "localStorage": "arm_press",
+        "name" : "Press de hombros",
+        "img": "images/arm_press.PNG",
+        "info_img" : "images/pressMilitar.jpg",
+        "group" : "Hombros",
+        "dificulty": "Fácil                     ",
+        "muscles" : [
+            "● Principales: Romboides, deltoides, trapecio medio, trapecio bajo, pectoral superior.",
+            "● Secundarios: Tríceps, trapecio superior, serrato."
+        ],
+        "explication" : [
+            "ANTES DE COMENZAR: Coloca el dispositivo en alguna zona en la que sea posible detectar todo tu cuerpo. Una vez colocado el dispositivo, colócate delante de él hasta que detecte que estás en la posición correcta.",
+            "Paso 1: Coloca los brazos de tal forma que los codos estén lo más alineados posible horizontalmente con los hombros, y coloca las manos a la altura de la cabeza, con las palmas hacia adelante. Se recomienda incluir algo de peso, para realizar un entrenamiento más eficiente.",
+            "Paso 2: Estira los brazos por encima de tu cabeza, hasta que queden paralelos.",
+            "Paso 3: Vuelve a la posición inicial para terminar la repetición."
+
+        ],
+        "images" : [
+            "images/PressMilitarInitialPosition.jpg",
+            "images/PressMilitarFinalPosition.jpg"
+        ]
+    },
+    "curl_biceps": {
+        "localStorage": "curl_biceps",
+        "name" : "Curl de bíceps",
+        "img": "images/biceps.png",
+        "info_img" : "images/curlBiceps.jpg",
+        "group" : "Bíceps",
+        "dificulty": "Fácil                 ",
+        "muscles" : [
+            "● Principales: Bíceps braquial, braquial anterior.",
+            "● Secundarios: Deltoides, trapecio."
+        ],
+        "explication" : [
+            "ANTES DE COMENZAR: Coloca el dispositivo en alguna zona en la que sea posible detectar todo tu cuerpo. Una vez colocado el dispositivo, colócate delante de él hasta que detecte que estás en la posición correcta.",
+            "Paso 1: Colócate con las piernas a la altura de los hombros, y baja los brazos. Se recomienda incluir algo de peso, para realizar un entrenamiento más eficiente.",
+            "Paso 2: Flexiona los brazos sin arquearlos, manteniéndolos lo más cerca posible del tronco.",
+            "Paso 3: Vuelve a la posición inicial para terminar la repetición."
+
+        ],
+        "images" : [
+            "images/curlBicepsInitialPosition.jpg",
+            "images/curlBicepsFinalPosition.jpg"
+        ]
+    }
+}

@@ -21,10 +21,7 @@ On profile screen you can check stadistic information about training sessions.
 
 <video src="https://user-images.githubusercontent.com/43370438/183715982-eb5b3989-be73-4feb-a80b-b2150686de7c.mp4"  width="100" height="100">
 </video> 
-<video src="https://user-images.githubusercontent.com/43370438/183715982-eb5b3989-be73-4feb-a80b-b2150686de7c.mp4"  width="100" height="100">
-</video> 
-<video src="https://user-images.githubusercontent.com/43370438/183715982-eb5b3989-be73-4feb-a80b-b2150686de7c.mp4"  width="100" height="100">
-</video> 
+
 
 
 This app was implemented using Flutter for a Computer Engineering Final Degree Project at the University of Cordova. If you want to see more, [ click here to download]( https://1drv.ms/u/s!Asdu4nsiDEAbgkQKBl3fSzv__rqF?e=6i06if).

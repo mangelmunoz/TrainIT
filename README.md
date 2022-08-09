@@ -13,10 +13,12 @@ On home screen user can select a exercise, and the application show information 
 On profile screen you can check stadistic information about training sessions.
 
 <p align="center">
-  <img src="images/Screens/StadisticScreen.jpg.jpg" width="200"> <img src="images/Screens/PressStadistics.jpg" width="200">
+  <img src="images/Screens/StadisticScreen.jpg" width="200"> <img src="images/Screens/PressStadistics.jpg" width="200">
 </p> 
 
-https://user-images.githubusercontent.com/43370438/183715982-eb5b3989-be73-4feb-a80b-b2150686de7c.mp4
+<video src="https://user-images.githubusercontent.com/43370438/183715982-eb5b3989-be73-4feb-a80b-b2150686de7c.mp4"  width="330" height="250">
+</video> 
+
 
 https://user-images.githubusercontent.com/43370438/183716951-2e33d38b-5c4c-4bca-b39d-45b7a65bebbd.mp4
 

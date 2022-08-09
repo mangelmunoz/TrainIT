@@ -22,4 +22,4 @@ https://user-images.githubusercontent.com/43370438/183716951-2e33d38b-5c4c-4bca-
 
 https://user-images.githubusercontent.com/43370438/183717428-84b02c7d-987c-4313-becf-ae93bf85c07b.mp4
 
-This app was implemented using Flutter for a Computer Engineering Final Degree Project at the University of Cordova. If you want to see more, click here to download[ click here to download]( https://1drv.ms/u/s!Asdu4nsiDEAbgkQKBl3fSzv__rqF?e=6i06if).
+This app was implemented using Flutter for a Computer Engineering Final Degree Project at the University of Cordova. If you want to see more, [ click here to download]( https://1drv.ms/u/s!Asdu4nsiDEAbgkQKBl3fSzv__rqF?e=6i06if).

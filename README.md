@@ -1,5 +1,5 @@
 # TrainIT
-TrainIT is a Android application that can tell if a user is doing a specific gym exercise correctly using TensorFlow pose estimation model.   
+TrainIT is an Android application capable of detecting whether a user is performing a given gym exercise with the correct technique, by using the TensorFlow pose estimation model.   
 
 <p align="center">
   <img src="images/Screens/HomeScreen.jpg" width="200" style="float:left; padding-right:10px"> <img src="images/Screens/ProfileScreen.jpg" width="200">

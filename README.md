@@ -5,13 +5,13 @@ TrainIT is an Android application capable of detecting whether a user is perform
   <img src="images/Screens/HomeScreen.jpg" width="200" style="float:left; padding-right:10px"> <img src="images/Screens/ProfileScreen.jpg" width="200">
 </p> 
 
-On home screen user can select a exercise, and the application show information about it.
+On the home screen, the user can select an exercise, and the application will display information about it.
 
 <p align="center">
   <img src="images/Screens/PressMilitar1.jpg" width="200"> <img src="images/Screens/PressMilitar2.jpg" width="200">
 </p> 
 
-On profile screen you can check stadistic information about training sessions.
+On profile screen, the user can check stadistic information about training sessions.
 
 
 
